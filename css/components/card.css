@@ -1,0 +1,26 @@
+.cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 40px;
+}
+
+.card{
+	display: flex;
+	align-items: center;
+	justify-content: flex;
+	gap:45px;
+	padding: 20px;
+	flex-basis:250px;
+	flex-grow: 1;
+	border-radius: 20px;
+	margin: 10px;
+	margin-top:30px;
+	background-color: white;
+	box-shadow:0px 10px 10px rgba(0,0,0,0.2);
+}
+
+.card h4{
+	color: #3C4733;
+	font-size: 20px;
+}

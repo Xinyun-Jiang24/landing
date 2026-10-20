@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: "Inter", sans-serif;
+	font-size:20px;
+	background-color: #F4EFD9;
+	color:#3C4733;
+	text-align: center;
+	margin:0px;
+
+}
+
+h1,h2,h3,h4{
+	font-family: 'Lora',serif;
+	font-weight:bold;
+	font-size: 40px;
+	margin-bottom: 30px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.welcome {
+	margin-top: 20px;
+	display: flex;
+	width:600px;
+}
+
+.welcome p {
+	text-align: left;
+	line-height: 1.6;
+}
+
+.welcome img {
+	width:180px;
+	height: auto;
+	object-fit:contain;
+	margin-left: 20px;
+}
+
+h5 {
+	font-family: "Inter", sans-serif;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 0px;
+}

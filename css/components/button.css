@@ -1,0 +1,46 @@
+.button{
+	background-color: #3C4733;
+	padding:15px 20px;
+	border-radius:4px;
+	color:#F4EFD9;
+	font-weight:bold;
+	font-family: "Inter", sans-serif;
+	font-size: 20px;
+	display: inline-block;
+	margin-bottom: 30px;
+}
+
+.buttonlight{
+	background-color: #F4EFD9;
+	padding:15px 20px;
+	border-radius:4px;
+	color:#3C4733;
+	font-weight:bold;
+	font-family: "Inter", sans-serif;
+	font-size: 20px;
+	display: inline-block;
+	margin-bottom: 30px;
+}
+
+.buttonlight2{
+	background-color: #A9B482;
+	padding:15px 20px;
+	border-radius:4px;
+	color:#F4EFD9;
+	font-weight:bold;
+	font-family: "Inter", sans-serif;
+	font-size: 20px;
+	display: inline-block;
+}
+
+.buttonlight3{
+	background-color: #6F7F5A;
+	padding:15px 20px;
+	border-radius:4px;
+	color:#F4EFD9;
+	font-weight:bold;
+	font-family: "Inter", sans-serif;
+	font-size: 20px;
+	display: inline-block;
+	margin-bottom: 30px;
+}
